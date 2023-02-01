@@ -25,6 +25,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  universal-darwin-22
 
 DEPENDENCIES
   pry
